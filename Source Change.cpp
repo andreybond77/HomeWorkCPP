@@ -3,7 +3,7 @@
 using namespace std;
 
 
-class Ñonvector {
+class Ã‘onvector {
 private:
     double sum ,a;
     double rub_dol=0.011171;
@@ -56,7 +56,7 @@ public:
 };
 
 int main() {
-    Ñonvector st;
+    Ã‘onvector st;
     int m;
     double a;
     char c = 'y';
